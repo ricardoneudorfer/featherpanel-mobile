@@ -2,7 +2,7 @@
 
 FeatherPanel Mobile is the official mobile companion app for FeatherPanel, the fast, modern, AI‑powered game server management panel. This repository contains the source code for the client‑focused mobile experience.
 
-> FeatherPanel Mobile is developed and owned by **OpenSource Hub**.  
+> FeatherPanel Mobile is developed and owned by **Ricardo Neudorfer**.  
 > The app is built independently for the FeatherPanel platform and is not an official product of FeatherPanel itself.
 
 ## About FeatherPanel
@@ -13,12 +13,12 @@ Learn more: https://featherpanel.com
 
 ## App Ownership and Independence
 
-FeatherPanel Mobile is conceived, developed, and maintained entirely by **OpenSource Hub**.  
+FeatherPanel Mobile is conceived, developed, and maintained entirely by **Ricardo Neudorfer**.  
 The app is created to provide a native mobile experience for FeatherPanel users, but it operates as an independent third‑party client.
 
-- **FeatherPanel Mobile** is branded and distributed under the OpenSource Hub name.  
+- **FeatherPanel Mobile** is branded and distributed under the name Ricardo Neudorfer.  
 - The project is not co‑owned, co‑developed, or jointly managed with FeatherPanel or any associated organizations.  
-- All design, development, and store publication decisions are made by OpenSource Hub.
+- All design, development, and store publication decisions are made by Ricardo Neudorfer.
 
 ## App Focus and Scope
 
@@ -51,7 +51,7 @@ Naming and store listings will clearly indicate which app is intended for client
 
 ## Platforms and Distribution
 
-FeatherPanel Mobile is planned for distribution through the major mobile app stores (for example, Android and iOS), with **OpenSource Hub** handling development, releases, and publication.
+FeatherPanel Mobile is planned for distribution through the major mobile app stores (for example, Android and iOS), with **Ricardo Neudorfer** handling development, releases, and publication.
 
 Store links and platform‑specific details will be added here once the app is publicly available.
 
@@ -67,5 +67,5 @@ More detailed contribution guidelines and a code of conduct may be added as the 
 
 ## License
 
-FeatherPanel Mobile is developed and owned by **OpenSource Hub**.  
+FeatherPanel Mobile is developed and owned by **Ricardo Neudorfer**.  
 The license for this project will be documented in this repository once finalized and will make clear that this is an independent client application built for FeatherPanel, not an official product of FeatherPanel itself.
